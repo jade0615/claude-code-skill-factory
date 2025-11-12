@@ -12,16 +12,10 @@ generated-skills/master-prompt-engineer/
 generated-skills/master-prompt-engineer.zip
 PROJECT_STATUS.md
 .DS_Store
-.vscode/
 .idea/
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
-.env.development
-.env.test
-.env.production
 github-docs/
 test-workspace/
 test-workspace/agent-sdk-examples/
@@ -53,3 +47,9 @@ documentation/delivery/
 # Test hooks (temporary testing artifacts)
 generated-hooks/test-*/
 generated-hooks/integration-test-*/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
+config.bat
+node_modules
